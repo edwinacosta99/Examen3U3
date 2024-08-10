@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
             child: TextButton(
               onPressed: () {}, 
               child: const Text('Ingresa tu votacion:'),
-              
             ),
           )),
     );
