@@ -12,11 +12,11 @@ class MyApp extends StatelessWidget {
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Material App Brrrrrrrrrrrr'),
+          title: Text('Votaciones'),
         ),
         body: Center(
           child: Container(
-            child: Text('Hello World'),
+            child: Text(''),
           ),
         ),
       ),
